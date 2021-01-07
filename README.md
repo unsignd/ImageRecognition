@@ -1,6 +1,5 @@
 # ImageRecognition
-이미지에 포함된 영어를 인식하여 텍스트 형식으로 바꿔주는 프로그램입니다.   
-The program recognizes the English contained in the image and changes it to a text.
+이미지에 포함된 영어를 인식하여 텍스트 형식으로 바꿔주는 프로그램입니다.
 # How to use
 ![sample](https://github.com/ERRrOR404/ImageRecognition/blob/main/image.png)
 ### 1. 'New Image' 버튼을 눌러 이미지를 선택합니다.   
