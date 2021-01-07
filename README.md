@@ -1,2 +1,2 @@
 # ImageRecognition
-### 이미지 자동 번역기
+이미지 자동 번역기
