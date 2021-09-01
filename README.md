@@ -1,4 +1,4 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/errror404/imagerecognition/badge)](https://www.codefactor.io/repository/github/errror404/imagerecognition)
+[![CodeFactor](https://www.codefactor.io/repository/github/unsignd/imagerecognition/badge)](https://www.codefactor.io/repository/github/unsignd/imagerecognition)
 # ImageRecognition
 이미지에 포함된 영어를 인식하여 텍스트 형식으로 바꿔주는 프로그램입니다.
 # How to use
